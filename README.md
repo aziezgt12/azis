@@ -15,5 +15,6 @@ I'am Abdul Azis. I have understanding about Backend Engineer for building websit
 
 
 <p align="center"> 
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
   <img src="https://profile-counter.glitch.me/aziezgt12/count.svg" alt="Visitor Count" />
 </p>
